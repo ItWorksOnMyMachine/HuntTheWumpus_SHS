@@ -97,6 +97,10 @@ namespace HuntTheWumpus.Tests
 			AddRoomAndConnections (game, 35, 3, 3, 34, 10);
 			AddRoomAndConnections (game, 36, 4, 4, 30, 31);
 		}
+
+		public void BrianTestMethod()
+		{
+		}
 	}
 }
 
